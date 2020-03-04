@@ -123,7 +123,7 @@ public class CameraSystem : JobComponentSystem
         job.TranslationFromEntity = GetComponentDataFromEntity<Translation>();
         job.RotationFromEntity = GetComponentDataFromEntity<Rotation>();
         job.CameraDataFromEntity = GetComponentDataFromEntity<CameraData>();
-        job.deltaTime = Time.deltaTime;
+        job.deltaTime = Time.DeltaTime;
 
         inputDependencies = job.Schedule(inputDependencies);
 

@@ -73,7 +73,7 @@ public class CharacterMoveSystem : JobComponentSystem
         inputDependencies = playerInputsToCharacterInputsJob.Schedule(this, inputDependencies);
 
         CharacterMoveJob characterMoveSystemJob = new CharacterMoveJob();
-        characterMoveSystemJob.deltaTime = Time.deltaTime;
+        characterMoveSystemJob.deltaTime = Time.DeltaTime;
         inputDependencies = characterMoveSystemJob.Schedule(this, inputDependencies);
 
         return inputDependencies;

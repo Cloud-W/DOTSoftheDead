@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_DOTSoftheDead.1960473379.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Project" t="Include">
+          <e p="Data" t="Include">
+            <e p="Input" t="Include">
+              <e p="InputActions.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Authoring" t="Include">
+              <e p="BillBoardAuthoring.cs" t="Include" />
+              <e p="CameraFocusAuthoring.cs" t="Include" />
+              <e p="CharacterAuthoring.cs" t="Include" />
+              <e p="DamageAuthoring.cs" t="Include" />
+              <e p="DestroyAfterTimeAuthoring.cs" t="Include" />
+              <e p="FireRatePickUpAuthoring.cs" t="Include" />
+              <e p="HealthBarAuthoring.cs" t="Include" />
+              <e p="HealthPickUpAuthoring.cs" t="Include" />
+              <e p="MeleeAttackAuthoring.cs" t="Include" />
+              <e p="PlayerCharacterAuthoring.cs" t="Include" />
+              <e p="ProjectileAuthoring.cs" t="Include" />
+              <e p="WeaponAuthoring.cs" t="Include" />
+              <e p="ZombieAuthoring.cs" t="Include" />
+            </e>
+            <e p="Barriers" t="Include">
+              <e p="PreTransformGroupBarrier.cs" t="Include" />
+            </e>
+            <e p="BootManager.cs" t="Include" />
+            <e p="CameraEntityBridge.cs" t="Include" />
+            <e p="CameraManager.cs" t="Include" />
+            <e p="Components" t="Include">
+              <e p="CameraData.cs" t="Include" />
+              <e p="CharacterComponents.cs" t="Include" />
+              <e p="DestroyAfterTime.cs" t="Include" />
+              <e p="DropOnDeathComponents.cs" t="Include" />
+              <e p="FocusCameraComponents.cs" t="Include" />
+              <e p="LinkHierarchyComponent.cs" t="Include" />
+              <e p="MiscComponents.cs" t="Include" />
+              <e p="MoveToTargetComponents.cs" t="Include" />
+              <e p="OwningComponents.cs" t="Include" />
+              <e p="PickUpComponents.cs" t="Include" />
+              <e p="PlayerComponents.cs" t="Include" />
+              <e p="ProjectileComponents.cs" t="Include" />
+              <e p="TagComponents.cs" t="Include" />
+              <e p="WeaponComponents.cs" t="Include" />
+            </e>
+            <e p="GameData.cs" t="Include" />
+            <e p="GameInitializer.cs" t="Include" />
+            <e p="GridSpawner.cs" t="Include" />
+            <e p="MainMenuManager.cs" t="Include" />
+            <e p="MathUtilities.cs" t="Include" />
+            <e p="MaxHitsCollector.cs" t="Include" />
+            <e p="SimpleCameraController.cs" t="Include" />
+            <e p="SpawnManager.cs" t="Include" />
+            <e p="Systems" t="Include">
+              <e p="AssignTargetClosestPlayerSystem.cs" t="Include" />
+              <e p="AssignTargetRandomSystem.cs" t="Include" />
+              <e p="AttackSystem.cs" t="Include" />
+              <e p="BillBoardSystem.cs" t="Include" />
+              <e p="CameraFocusSystem.cs" t="Include" />
+              <e p="CharacterAnimationSystem.cs" t="Include" />
+              <e p="CharacterCollisionsSystem.cs" t="Include" />
+              <e p="CharacterDeathSystem.cs" t="Include" />
+              <e p="CharacterMoveSystem.cs" t="Include" />
+              <e p="DamageAreaHitDetectionSystem.cs" t="Include" />
+              <e p="DamagePlayerOverTimeSystem.cs" t="Include" />
+              <e p="DestroyAfterTimeSystem.cs" t="Include" />
+              <e p="GameDataSystem.cs" t="Include" />
+              <e p="HealthBarSystem.cs" t="Include" />
+              <e p="MoveTowardTargetSystem.cs" t="Include" />
+              <e p="PickupSystem.cs" t="Include" />
+              <e p="PlayerControllerSystem.cs" t="Include" />
+              <e p="PlayerInputSystem.cs" t="Include" />
+              <e p="ProjectileHitDetectionSystem.cs" t="Include" />
+              <e p="ProjectileMoveSystem.cs" t="Include" />
+              <e p="SceneManagementSystem.cs" t="Include" />
+              <e p="ZombieAutoAttackSystem.cs" t="Include" />
+              <e p="ZombieSpawningSystem.cs" t="Include" />
+            </e>
+            <e p="TransformEntityBridge.cs" t="Include" />
+            <e p="TransformUtilities.cs" t="Include" />
+          </e>
+        </e>
+        <e p="FrameratePanel" t="Include">
+          <e p="FrameratePanel.cs" t="Include" />
+        </e>
+        <e p="link.xml" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DOTSoftheDead.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
